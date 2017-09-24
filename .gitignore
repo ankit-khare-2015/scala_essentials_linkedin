@@ -1,2 +1,11 @@
 *.class
 *.log
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/scala_essentials_linkedin.iml
+.idea/sbt.xml
+.idea/workspace.xml
+project/project/
+project/target/
+src/
+target/
